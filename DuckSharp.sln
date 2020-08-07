@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuckSharp", "DuckSharp\DuckSharp.csproj", "{D37D8B35-CE53-40EE-B1EE-A24E46486A09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D37D8B35-CE53-40EE-B1EE-A24E46486A09}.Debug|x86.ActiveCfg = Debug|x86
+		{D37D8B35-CE53-40EE-B1EE-A24E46486A09}.Debug|x86.Build.0 = Debug|x86
+		{D37D8B35-CE53-40EE-B1EE-A24E46486A09}.Release|x86.ActiveCfg = Release|x86
+		{D37D8B35-CE53-40EE-B1EE-A24E46486A09}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61C742B3-E958-45FC-8435-DC95C616794B}
+	EndGlobalSection
+EndGlobal
