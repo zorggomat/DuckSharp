@@ -11,4 +11,4 @@ Features:
 - Deletes itself if debugging is detected
 - encrypts logs with AES256
 
-To decrypt the logs you can use [DecryptorSharp](https://github.com/zorggish/DecryptorSharp).
+To decrypt the logs you can use [DecryptorSharp](https://github.com/zorggish/DecryptorSharp) or [DecryptorQt](https://github.com/zorggish/DecryptorQt).
